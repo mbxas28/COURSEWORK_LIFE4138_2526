@@ -1,0 +1,3 @@
+Requirements for Pumpkin Challenge (R)
+-tidyverse
+-ggplot2
