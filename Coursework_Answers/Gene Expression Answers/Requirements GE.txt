@@ -1,0 +1,5 @@
+Requirements for Gene Expression (Python)
+-pandas
+-numpy
+-matplotlib.pyplot
+-seaborn
